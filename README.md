@@ -1,4 +1,4 @@
-# Stable Coins List (WIP)
+# Stable Coins Status (WIP)
 
 ## Alive
 
